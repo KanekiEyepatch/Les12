@@ -1,0 +1,100 @@
+
+
+header {
+  background-color: #e6e9ec;
+  width: auto;
+  height: 200px;
+}
+
+td {
+  width: 500px;
+  height: 50px;
+  text-align: center;
+}
+
+img {
+  width: 70px;
+  height: 70px;
+
+}
+
+#cel1 {
+  background-color: #008000;
+  color: #FFFFFF;
+}
+
+#cel2 {
+  background-color: #cb3234;
+  background-image: url("afbeelding/afb1.jpg");
+}
+
+#cel3 {
+  background-color: #4738c5;
+  color: #00CCFF;
+}
+
+#cel4 {
+  background-color: #008000;
+}
+
+#cel5 {
+  background-color: #0033CC;
+  color: #66ff33
+}
+
+#cel6 {
+  background-color: #00CCCC;
+}
+
+#cel7 {
+  background-color: #00CC00;
+  color: #000099;
+}
+
+#cel8 {
+  background-color: #000000;
+}
+
+#cel9 {
+  background-color: #FFFFFF;
+  color: #0000FF;
+}
+
+#cel10 {
+  background-color: #FF00FF;
+}
+
+#cel11 {
+  background-color: #66FFFF;
+  color: #FFFFCC;
+}
+
+#cel12 {
+  background-color: #0033FF;
+}
+
+#cel13 {
+  background-color: #669999;
+  color: #FF33FF;
+}
+
+#cel14 {
+  background-color: #9966CC;
+}
+
+#cel15 {
+  background-color: #999900;
+  color: #660066;
+}
+
+#cel16 {
+  background-color: #990000;
+}
+
+
+
+footer {
+  background-color: #e57351;
+  width: auto;
+  height: 100px;
+}
